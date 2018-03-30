@@ -1,0 +1,13 @@
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\bin\Debug\Masjid.exe.config
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\bin\Debug\Masjid.exe
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\bin\Debug\Masjid.pdb
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\bin\Debug\ar\Masjid.resources.dll
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\Masjid.Form1.resources
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\Masjid.Form2.resources
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\Masjid.Properties.Resources.resources
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\Masjid.Form2.ar.resources
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\Masjid.csproj.GenerateResource.Cache
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\ar\Masjid.resources.dll
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\Masjid.exe
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\Masjid.pdb
+C:\Users\KoolDev\Documents\Visual Studio 2015\Projects\Masjid\Masjid\obj\Debug\Masjid.csprojResolveAssemblyReference.cache

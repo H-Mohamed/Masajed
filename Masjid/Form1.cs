@@ -32,7 +32,7 @@ namespace Masjid
             importlogins();
             bool valid = false;
             foreach (string k in login.Keys) {
-                if (k == textBox1.Text && login[k] == textBox2.Text)
+                if (k == textBox1.Text && login[k]==textBox2.Text)
                 {
                     valid = true;
                     break;
